@@ -90,6 +90,40 @@ Build a machine learning model to perform focused digital marketing by predictin
 
 #### 9. Save the model with the highest accuracy in the form of a pickle file.
 
+### Project Takeaways
+1. Understanding the business problem.
+   
+2. Importing the dataset and required libraries.
 
+3. Performing basic Exploratory Data Analysis (EDA).
+   
+4. Removal of unwanted features and missing data handling if required, using
+appropriate methods.
+
+5. Checking data distribution using statistical techniques.
+   
+6. Using python libraries such as matplotlib and seaborn for data interpretation
+and advanced visualizations.
+
+7. Splitting Dataset into Train and Test using sklearn.
+   
+8. Training a model using Classification techniques like Logistics Regression,
+Naïve Bayes, Decision Tree Classifier, Random Forest Classifier and Support
+Vector Machine.
+
+9. Tuning hyper-parameters of models to achieve optimal performance.
+   
+10.Making predictions using the trained model.
+   
+11.Gaining confidence in the model using metrics such as accuracy score,
+confusion matrix, recall, precision and f1 score
+
+12.Handling the unbalanced data using various methods.
+
+13.How Target variable is dependent on the values of Input features.
+
+14.Selection of the best model based on performance metrics.
+
+15.Saving the best model in pickle format for future use.
 
    
